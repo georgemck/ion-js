@@ -1,1 +1,1 @@
-be sure to run npm init to install 'ion-js'
+be sure to run npm install to bring in the 'ion-js' dependency
